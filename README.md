@@ -5,7 +5,7 @@
 [![Travis (.com)](https://img.shields.io/travis/com/io-extreme/iox-store.svg?style=flat-square)](https://travis-ci.com/io-extreme/iox-store/)
 [![Codecov](https://img.shields.io/codecov/c/github/io-extreme/iox-store.svg?style=flat-square)](https://codecov.io/gh/io-extreme/iox-store)
 [![Known Vulnerabilities](https://snyk.io/test/github/io-extreme/iox-store/badge.svg?style=flat-square)](https://snyk.io/test/github/io-extreme/iox-store)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/io-extreme/iox-store.svg)](https://greenkeeper.io/)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/io-extreme/iox-store.svg?style=flat-square)](https://greenkeeper.io/)
 
 ## Installation
 ```
