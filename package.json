@@ -1,0 +1,35 @@
+{
+  "name": "iox-store",
+  "version": "1.0.0",
+  "description": "The simple store in a main file",
+  "main": "index.js",
+  "keywords": [
+    "state",
+    "store",
+    "simple"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test-local": "npx tap test/**/**.js --coverage-report=html && npx standard --fix",
+    "test-ci": "tap",
+    "test-cov": "tap --coverage-report=lcov && codecov",
+    "test-lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/io-extreme/iox-store.git"
+  },
+  "author": "Gleison M. Vasconcelos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/io-extreme/iox-store/issues"
+  },
+  "homepage": "https://github.com/io-extreme/iox-store#readme",
+  "devDependencies": {
+    "codecov": "^3.5.0",
+    "standard": "^13.0.0",
+    "tap": "^14.4.1"
+  }
+}
