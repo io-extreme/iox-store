@@ -1,5 +1,5 @@
 # iox-store
- store in a main file
+simple store for global variables
 
 [![npm](https://img.shields.io/npm/v/iox-store.svg?style=flat-square)](https://www.npmjs.com/package/iox-store)
 [![Travis (.com)](https://img.shields.io/travis/com/io-extreme/iox-store.svg?style=flat-square)](https://travis-ci.com/io-extreme/iox-store/)

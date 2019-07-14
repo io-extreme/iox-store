@@ -1,7 +1,7 @@
 {
   "name": "iox-store",
   "version": "1.0.0",
-  "description": "The simple store in a main file",
+  "description": "simple store for global variables",
   "main": "index.js",
   "keywords": [
     "state",
