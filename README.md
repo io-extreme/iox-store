@@ -34,7 +34,7 @@ const store = require('iox-store')
 store.set('main', 20)
 
 // or
-store.set('main', 20).set('multiple', 19)
+store.set('main', 25).set('multiple', 19)
 
 // get
 console.log(store.get('main'))
@@ -43,5 +43,5 @@ console.log(store.get('main'))
 store.delete('main')
 
 // direct access
-console.log(store.$.main)
+console.log(store.$.multiple)
 ```
