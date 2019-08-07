@@ -9,10 +9,11 @@
     "simple"
   ],
   "files": [
-    "index.js"
+    "index.js",
+    "store.js"
   ],
   "scripts": {
-    "test-local": "npx tap test/**/**.js --coverage-report=html && npx standard --fix",
+    "test-local": "tap test/store.js --coverage-report=html && standard --fix",
     "test-ci": "tap",
     "test-cov": "tap --coverage-report=lcov && codecov",
     "test-lint": "standard"
@@ -29,7 +30,7 @@
   "homepage": "https://github.com/io-extreme/iox-store#readme",
   "devDependencies": {
     "codecov": "^3.5.0",
-    "standard": "^13.0.0",
-    "tap": "^14.4.1"
+    "standard": "^13.1.0",
+    "tap": "^14.6.1"
   }
 }
