@@ -30,7 +30,7 @@
   "homepage": "https://github.com/io-extreme/iox-store#readme",
   "devDependencies": {
     "codecov": "^3.5.0",
-    "standard": "^13.1.0",
+    "standard": "^14.2.0",
     "tap": "^14.6.1"
   }
 }
