@@ -31,6 +31,6 @@
   "devDependencies": {
     "codecov": "^3.5.0",
     "standard": "^13.1.0",
-    "tap": "^14.6.1"
+    "tap": "^14.8.0"
   }
 }
